@@ -123,5 +123,16 @@ Escalade :
   Après 100% du SLA → Réassignation + Alerte direction
 ```
 
+## 📚 Documentation détaillée
+
+| Fichier | Contenu |
+|---------|---------|
+| [configuration.md](configuration.md) | Départements, canaux, SLA, heures ouvrées |
+| [tickets.md](tickets.md) | Création, assignation, statuts, vues |
+| [automatisations.md](automatisations.md) | Workflows, macros, blueprints |
+| [base-connaissances.md](base-connaissances.md) | Articles, catégories, portail client |
+| [rapports.md](rapports.md) | Tableaux de bord, métriques, KPIs |
+| [api.md](api.md) | API REST Desk, endpoints, exemples |
+
 ---
 *Voir aussi : [../zoho-crm/](../zoho-crm/) pour le contexte client, [../integrations/](../integrations/).*
