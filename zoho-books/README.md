@@ -92,5 +92,17 @@ POST   /invoices/{id}/status/sent → Marquer comme envoyée
 | 2.1% | Taux super-réduit |
 | 0% | Exonéré / Export |
 
+## 📚 Documentation détaillée
+
+| Fichier | Contenu |
+|---------|---------|
+| [configuration.md](configuration.md) | Paramétrage initial, TVA, devises, modèles |
+| [factures.md](factures.md) | Création, récurrence, relances, mentions légales |
+| [contacts.md](contacts.md) | Clients, fournisseurs, portail client |
+| [bancaire.md](bancaire.md) | Rapprochement bancaire, flux, règles |
+| [rapports.md](rapports.md) | Rapports financiers, tableau de bord |
+| [automatisations.md](automatisations.md) | Workflows, webhooks, scripts Deluge |
+| [api.md](api.md) | API REST Books, endpoints, exemples |
+
 ---
 *Voir aussi : [../zoho-crm/](../zoho-crm/) pour l'intégration CRM, [../integrations/](../integrations/) pour les flux.*
