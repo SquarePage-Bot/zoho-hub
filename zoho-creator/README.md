@@ -175,5 +175,16 @@ POST https://creator.zoho.eu/api/v2/squarepage/mon-app/form/Demandes
 5. **Sécurité** : Configurer les permissions par rôle
 6. **Mobile** : Tester les formulaires sur mobile (responsive natif)
 
+## 📚 Documentation détaillée
+
+| Fichier | Contenu |
+|---------|---------|
+| [formulaires.md](formulaires.md) | Types de champs, validation, actions on submit, sous-formulaires |
+| [rapports.md](rapports.md) | Types de rapports, filtres, groupements, export |
+| [pages.md](pages.md) | Pages HTML personnalisées, SDK Creator, widgets |
+| [workflows.md](workflows.md) | Workflow rules, schedules, blueprints, approbations |
+| [deluge-creator.md](deluge-creator.md) | Scripts Deluge spécifiques à Creator |
+| [api.md](api.md) | API REST Creator, endpoints, authentification |
+
 ---
 *Voir aussi : [../zoho-deluge/](../zoho-deluge/) pour la syntaxe Deluge complète.*
